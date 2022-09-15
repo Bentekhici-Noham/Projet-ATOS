@@ -7,4 +7,5 @@ Etudiant 4 nom : Meydi Bresson
 Etudiant 5 nom : Simon Parmé
 
 
-URL du projet github : https://github.com/CliqMaqro/Projet-ATOS
+URL du site : https://username.github.io/Projet-ATOS/
+URL du projet  : https://github.com/CliqMaqro/Projet-ATOS
