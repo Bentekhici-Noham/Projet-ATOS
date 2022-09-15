@@ -7,5 +7,6 @@ Etudiant 4 nom : Meydi Bresson
 Etudiant 5 nom : Simon Parmé
 
 
-URL du site : https://Bentekhici-Noham.github.io/Projet-ATOS/
+URL du site : https://github.com/Bentekhici-Noham/Projet-ATOS/index.html
 URL du projet  : https://github.com/Bentekhici-Noham/Projet-ATOS
+https://Bentekhici-Noham.github.io/Projet-ATOS/
