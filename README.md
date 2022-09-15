@@ -10,3 +10,9 @@ Etudiant 5 nom : Simon Parmé
 URL du site : https://Bentekhici-Noham.github.io/Projet-ATOS/
 URL du projet  : https://github.com/Bentekhici-Noham/Projet-ATOS
 
+
+
+Bonjour Monsieur,
+Pour une raison inconnue le premier lien ne fonctionne pas depuis notre ordi. Nous l'avons quand même mis afin de fournir le rendu demandé.
+Cordialement.
+
